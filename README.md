@@ -1,4 +1,4 @@
-# neural-automata-engine
+# neural-automata-engine (V 1.0)
 
 Tensor-free spatial state evolution in C99, with a thin stdlib-only Python layer for visualization and harness scripts.
 
